@@ -1,0 +1,166 @@
+[
+    {
+      "id": 1,
+      "fullName": "Adenola Lookman",
+      "learningPath": "frontend",
+      "phoneNumber": "0902-962-7516",
+      "email": "ademola@email.com",
+      "overallTaskScore": "3000"
+    },
+    {
+      "id": 2,
+      "fullName": "Jessica Okafor",
+      "learningPath": "backend",
+      "phoneNumber": "0811-211-7516",
+      "email": "jessica@email.com",
+      "overallTaskScore": "2900"
+    },
+    {
+      "id": 3,
+      "fullName": "Tony Frank",
+      "learningPath": "frontend",
+      "phoneNumber": "0709-962-7516",
+      "email": "tony.frank@email.com",
+      "overallTaskScore": "2800"
+    },
+    {
+      "id": 4,
+      "fullName": "Jeremy Augustine",
+      "learningPath": "backend",
+      "phoneNumber": "0711-962-111",
+      "email": "jeremy@email.com",
+      "overallTaskScore": "2700"
+    },
+    {
+      "id": 5,
+      "fullName": "Raymond Edwards",
+      "learningPath": "web 3",
+      "phoneNumber": "0911-962-7516",
+      "email": "raymon.edwards@email.com",
+      "overallTaskScore": "2600"
+    },
+    
+    {
+        "id": 6,
+        "fullName": "Komolafe Edin",
+        "learningPath": "frontend",
+        "phoneNumber": "0703-962-7516",
+        "email": "komolafe@email.com",
+        "overallTaskScore": "2500"
+      },
+      {
+        "id": 7,
+        "fullName": "Peter Obi",
+        "learningPath": "product design",
+        "phoneNumber": "0911-211-7516",
+        "email": "peter@email.com",
+        "overallTaskScore": "2400"
+      },
+      {
+        "id": 8,
+        "fullName": "Townhall Bulaba",
+        "learningPath": "web 3",
+        "phoneNumber": "0702-962-7516",
+        "email": "townhall@email.com",
+        "overallTaskScore": "2300"
+      },
+      {
+        "id": 9,
+        "fullName": "Atiku Olorinla",
+        "learningPath": "product design",
+        "phoneNumber": "0811-962-111",
+        "email": "atiku@email.com",
+        "overallTaskScore": "2200"
+      },
+      {
+        "id": 10,
+        "fullName": "Frank Edwards",
+        "learningPath": "frontend",
+        "phoneNumber": "0904-962-7516",
+        "email": "edwards@email.com",
+        "overallTaskScore": "2100"
+      },
+      
+    {
+        "id": 11,
+        "fullName": "Kwankwaso Nnaehn",
+        "learningPath": "frontend",
+        "phoneNumber": "0705-962-7516",
+        "email": "kwankwaso@email.com",
+        "overallTaskScore": "2000"
+      },
+      {
+        "id": 12,
+        "fullName": "Beatrice Ojukwu",
+        "learningPath": "backend",
+        "phoneNumber": "0711-211-7516",
+        "email": "ojukwu@email.com",
+        "overallTaskScore": "1900"
+      },
+      {
+        "id": 13,
+        "fullName": "Tony Stark",
+        "learningPath": "web 3",
+        "phoneNumber": "0908-962-7516",
+        "email": "stark@email.com",
+        "overallTaskScore": "1800"
+      },
+      {
+        "id": 14,
+        "fullName": "Clark Fineboy",
+        "learningPath": "product design",
+        "phoneNumber": "0711-962-111",
+        "email": "clark@email.com",
+        "overallTaskScore": "1700"
+      },
+      {
+        "id": 15,
+        "fullName": "Batista Shawn",
+        "learningPath": "backend",
+        "phoneNumber": "0903-962-7516",
+        "email": "batista@email.com",
+        "overallTaskScore": "1600"
+      },
+      
+    {
+        "id": 16,
+        "fullName": "Jenny Chan",
+        "learningPath": "web 3",
+        "phoneNumber": "0800-962-7516",
+        "email": "jenny.chan@email.com",
+        "overallTaskScore": "1500"
+      },
+      {
+        "id": 17,
+        "fullName": "Jessica warren",
+        "learningPath": "backend",
+        "phoneNumber": "0911-211-7516",
+        "email": "jessica.warren@email.com",
+        "overallTaskScore": "1400"
+      },
+      {
+        "id": 18,
+        "fullName": "lasisi Godsent",
+        "learningPath": "web 3",
+        "phoneNumber": "0708-962-7516",
+        "email": "lasisi@email.com",
+        "overallTaskScore": "1300"
+      },
+      {
+        "id": 19,
+        "fullName": "Jeremy Clark",
+        "learningPath": "web 3",
+        "phoneNumber": "0811-962-111",
+        "email": "jeremy.clark@email.com",
+        "overallTaskScore": "1200"
+      },
+      {
+        "img":"img",
+        "id": 20,
+        "fullName": "chibuike collins",
+        "learningPath": "backend",
+        "phoneNumber": "0902-962-7516",
+        "email": "collins@email.com",
+        "overallTaskScore": "1100"
+      }
+  ]

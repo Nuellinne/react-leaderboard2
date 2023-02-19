@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 1rem;
+}
+
+table {
+  border-collapse: collapse;
+ width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+td {
+  border: 1px solid #ffffff;
+  text-align: center;
+  padding: 8px;
+  font-size: 32px;
+  border-radius: 10px;
+}
+
+.see{
+  background-color: rgb(102, 247, 102);
+}
+
+th {
+  background-color: rgb(3, 170, 3);
+  justify-content:space-between;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+td {
+  background-color:rgb(6, 233, 6);
+  font-size: large;
+}
+.learn{
+  margin-left: 350px;
+  font-size: 50px;
+  color: red,blue;
+}
+.body{
+  background-color: blue;
+}
